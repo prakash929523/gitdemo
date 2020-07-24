@@ -1,2 +1,4 @@
 Starting of git
-love to learn
+ilove to learn
+but not easy
+
